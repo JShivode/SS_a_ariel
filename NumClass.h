@@ -1,0 +1,10 @@
+int isPalindromeRecursionHelper(int nums);
+int isPalindromeRecursion(int num);
+int isArmstrongRecursion(int num);
+int isArmstrong(int num);
+int isPalindrome(int num);
+int isPrime(int num);
+int isStrong(int num);
+int power(int n, int p);
+int getDigitNum(int n);
+int sumDigitPow(int num, int x);
